@@ -1,1 +1,0 @@
-# ediz-whatsapp-bot
